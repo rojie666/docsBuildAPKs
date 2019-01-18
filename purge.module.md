@@ -1,4 +1,4 @@
-To remove a submodule you want to:
+Delete Module from Git Repository:
 
 Delete the relevant line from the .gitmodules file.
 Delete the relevant section from .git/config.
